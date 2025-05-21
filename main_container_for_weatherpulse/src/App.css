@@ -4,6 +4,10 @@
   --text-color: #ffffff;
   --text-secondary: rgba(255, 255, 255, 0.7);
   --border-color: rgba(255, 255, 255, 0.1);
+  --weather-blue: #3498db;
+  --weather-light-blue: #5dade2;
+  --weather-dark-blue: #2874a6;
+  --weather-accent: #f1c40f;
 }
 
 body {
